@@ -109,16 +109,3 @@ docs/                Design notes and paper mapping drafts
 
 </details>
 
-## Repository Description
-
-For the GitHub repository description field:
-
-```text
-Research preview for topology-aware, self-evolving LLM multi-agent experiments with claim DAG reconstruction, routing, and intervention analysis.
-```
-
-<div align="center">
-
-<a href="#readme-top">back to top</a>
-
-</div>
